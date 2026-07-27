@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Manager Workflow"
+  short_description: "End-to-end PM workflow toolkit"
+  default_prompt: "Use $product-manager-workflow to turn this product idea into a validated PM workflow and the right deliverables."
